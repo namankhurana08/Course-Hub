@@ -14,11 +14,11 @@ User-Friendly Interface: A simple and intuitive UI for easy navigation and inter
 
 Run the following command to clone the repository to your local machine:
 
-`git clone https://github.com/namankhurana08/repository-name.git`
+`git clone https://github.com/namankhurana08/Course-Hub.git`
 
 Navigate to the cloned project directory:
 
-`cd repository-name`
+`cd Course-Hub`
 
 Install the dependencies by running:
 
@@ -31,6 +31,16 @@ Run the following command:
 Run the Application with react-toastify
 
 `npm install react-toastify`
+
+After completing these steps, you should have a fully functional application running locally from a GitHub repository!
+
+## Preview
+
+![image](https://github.com/user-attachments/assets/0452badf-123e-4030-b904-f67cc099e932)
+
+![image](https://github.com/user-attachments/assets/6f134a11-2298-4126-9b68-3994c321935e)
+
+
 
 
 
